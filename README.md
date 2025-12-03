@@ -3,13 +3,13 @@
 <br>
 
 <p align="center">
-  <img src="https://e7.pngegg.com/pngimages/17/155/png-clipart-nitro-pdf-computer-software-adobe-acrobat-document-others-miscellaneous-text.png" width="260">
+  <img src="https://cdn.cookielaw.org/logos/3126d1a4-365c-4537-9093-3ee90642774c/33adf9a2-9f2e-4976-b389-1038247bc7ec/56f2887c-d23e-4036-8338-afa74a9ac2c8/logo_nitro_full_darkVersion.png" width="460">
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/downloads-1.4k-brightgreen">
   <img src="https://img.shields.io/badge/release-v4.3-blue">
-  <img src="https://img.shields.io-badge/license-Pro-lightgrey">
+   <a href="#"><img src="https://img.shields.io/badge/license-Mac%20License-lightgrey?style=flat" alt="license"/></a>
   <img src="https://img.shields.io/badge/platform-OSX-blue">
 </p>
 
