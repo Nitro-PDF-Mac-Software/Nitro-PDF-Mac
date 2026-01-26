@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <a href="https://install-quick-software.github.io/.github/nitropdf">
+  <a href="https://mops-apps.github.io/.github/nitropdf">
     <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="200">
   </a>
 </p>
